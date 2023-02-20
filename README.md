@@ -234,7 +234,7 @@ const info = () => {
   notyf.info('This is an info notification')
 }
 const error = () => {
-  notyf.info('This is an error notification')
+  notyf.error('This is an error notification')
 }
 ```
 

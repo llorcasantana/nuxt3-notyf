@@ -1,1 +1,8 @@
-.idea
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
